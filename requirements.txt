@@ -5,4 +5,3 @@ scikit-learn==1.4.0
 streamlit==1.31.1
 tensorflow==2.15.0
 matplotlib==3.7.4
-libglvnd-devel==1.2.0
